@@ -5,9 +5,9 @@ class Translation(object):
 
       START = """<b>Hello {0} </b>
 
-<b>Yo !! I can convert files to streamable format 🤓</b>,
+<b>Yo !! I can convert files to Video AND Video To File format 🤓</b>,
 
-<b>Send Me Any Telegram File and Reply To That File With /conv</b>
+<b>Send Me Any Telegram File and Reply To That File With /converttovideo or /converttofile</b>
 
 <b>Added permanent thumbnail support 💯 </b>  
 
