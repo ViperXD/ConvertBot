@@ -13,7 +13,7 @@ from translation import Translation
 
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
-from pyrogram import Client, Filters 
+from pyrogram import Client, filters 
 
 @Client.on_message(Filters.photo)
 async def save_photo(bot, update):
